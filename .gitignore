@@ -3,8 +3,8 @@ __pycache__/
 env/
 *.pyc
 .env
-.package-lock.json
 node_modules/
+package-lock.json
 dist/
 
 
