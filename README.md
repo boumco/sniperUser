@@ -38,4 +38,11 @@ Génère `usernames_3_4.txt`, parcourt la liste en boucle : `[TAKEN]` / `[OPEN]`
 
 ---
 
+### Proxies
+
+L'utilisation des `proxies` n'est pas forcément obligatoire. Mais si par hasard vous voulez en avoir gratuitement. Je vous conseil de vous inscrire sur (ce site)[https://proxyscrape.com/], vous en aurez 100 gratuits
+
+## For all question, add me on discord : vraiboumco
+
 *Usage éducatif. Responsabilité utilisateur. Ne pas commiter `.env`.*
+
